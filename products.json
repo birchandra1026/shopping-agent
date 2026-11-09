@@ -1,0 +1,10 @@
+[
+  {"id": 1, "name": "Basic Cotton T-Shirt", "category": "clothing", "price": 399, "tags": ["tshirt", "shirt", "cotton", "casual"]},
+  {"id": 2, "name": "Running Shoes", "category": "footwear", "price": 2499, "tags": ["shoes", "running", "sports"]},
+  {"id": 3, "name": "Leather Wallet", "category": "accessories", "price": 799, "tags": ["wallet", "leather", "gift"]},
+  {"id": 4, "name": "Wireless Earbuds", "category": "electronics", "price": 1999, "tags": ["earbuds", "wireless", "audio", "music"]},
+  {"id": 5, "name": "Steel Water Bottle", "category": "home", "price": 549, "tags": ["bottle", "water", "steel", "gym"]},
+  {"id": 6, "name": "Laptop Backpack", "category": "accessories", "price": 1299, "tags": ["bag", "backpack", "laptop", "travel"]},
+  {"id": 7, "name": "Study Desk Lamp", "category": "home", "price": 899, "tags": ["lamp", "desk", "study", "light"]},
+  {"id": 8, "name": "Yoga Mat", "category": "sports", "price": 699, "tags": ["yoga", "mat", "exercise", "gym"]}
+]
